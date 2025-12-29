@@ -1,0 +1,9 @@
+i# Quartus generated
+db/
+incremental_db/
+output_files/
+*.sof
+*.pof
+*.rpt
+*.summary
+*.smsg
